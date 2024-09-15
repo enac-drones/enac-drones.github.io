@@ -1,7 +1,7 @@
 ---
 title: U-space Advanced Strategic Deconfliction
 date: 2024-09-15
-authors: [admin]
+authors: [Balita_Rakotonarivo, Adrian_Del-Ser, admin]
 url: sid2024
 ---
 
