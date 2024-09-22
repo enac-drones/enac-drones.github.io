@@ -18,9 +18,12 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Grad Students
     - Administration
+    - Experts
+    - Grad Students
+    - Collaborators
     - Visitors
+    - Internships
     - Alumni
     - Robots
 design:

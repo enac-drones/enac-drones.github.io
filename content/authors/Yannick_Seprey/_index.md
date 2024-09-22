@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Experts
 ---
 Passionate about aeronautics, he started his career as an air traffic controller in the French Air Force, then joined DHL as an export operations agent - air import, then export manager. During this period, he obtained a master's degree in international trade. He resumed his studies at ENAC for the specialised master's degree Air Navigation System Engineering and Operations in 2016.
 It was during his university internship at the DTI that he became acquainted with U-space and the CORUS project. He joined Sopra Steria and participated in the SESAR CORUS, CORUS X-UAM, DACUS, PJ34 and PJ13 projects, all dealing with the integration of UAVs in the airspace. His experience as a controller and his knowledge of the aeronautical world proved to be very beneficial.
