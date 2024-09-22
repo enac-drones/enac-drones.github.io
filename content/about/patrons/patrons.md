@@ -36,7 +36,7 @@ weight: 5 # The position of section on page
 ---
 
 <p align="center" width="100%">
-    <img width="50%" src="airbus_logo.jpeg">
+    <img width="50%" src="AIRBUS_Blue.png">
 </p>
 
 <!-- # AIRBUS -->
