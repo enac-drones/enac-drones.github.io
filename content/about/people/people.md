@@ -24,8 +24,8 @@ content:
     - Collaborators
     - Visitors
     - Internships
-    - Alumni
     - Robots
+    - Alumni
 design:
   show_interests: false
   show_role: true

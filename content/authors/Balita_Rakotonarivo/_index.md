@@ -54,9 +54,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:balita.rakotonarivo@enac.fr'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:balita.rakotonarivo@enac.fr'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/balita-rakotonarivo/
@@ -75,7 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 Passionate about information technology, Balita began his career in 2007 as a meteorologist for international air navigation. After a Master's degree in computer systems, he entered ENAC for the Advanced Master's degree in Air Navigation System Engineering and Operations in 2018 during which he had a revelation regarding drones. He earned a Ph.D. in Human-Machine Interaction for the safety of complex drone missions.
