@@ -28,6 +28,19 @@ content:
         icon_pack: fas
         text: Drones & UTM Research Chair !
         url: ../about/chaire
+    - title: Authorized Flights inside ENAC Campus !
+      content: 'We are opening the sky for future real-world UTM and Swarm experiments.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: flights_01.jpg
+      link:
+        icon:
+        icon_pack: fas
+        text: More Info !
+        url: flights20241106
     - title: Discussing the Future of UTM/U-space #Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
