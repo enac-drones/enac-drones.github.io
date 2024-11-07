@@ -15,7 +15,7 @@ as part of our Drones & UTM chair partnership.
 From left to right....Balita Rakotonarivo (ENAC Research Engineer, PostDoc), Sandrine Matheron (Airbus ATM/UTM Technical expert), Murat Bronz (ENAC Assistant Prof. of Dynamic Systems and Head of Drones and UTM Research Chair), Anthony Clerquin- (Airbus ATM/UTM products & Export - Team leader), Nicolas Deherly (Airbus ATM/UTM Technical expert), Adrian Del Ser (ENAC Research Engineer)
 
 After some demonstration of automatic tactical deconfliction of 4 drones in motion in the largest aviary in Europe (see photo above), followed by a visit to the fixed-wing and quadcopter drone manufacturing workshop, we were able to discuss Airbus' future needs around UTM.
-Among the subjects, the development and fine-tuning of drone performance algorithms that are both realistic and resource-efficient (BADA equivalent for planes) were the important ones.
+Among the subjects, the development and fine-tuning of drone performance algorithms that are both realistic and resource-efficient (BADA equivalent for drones) were the important ones.
 These algorithms, will be used in Airbus ATM simulator (GENETICS) to simulate drone traffic tomorrow, which would help to understand and define how drones will integrate into current air traffic.
 <!-- A fruitful meeting with quality exchanges. -->
 
