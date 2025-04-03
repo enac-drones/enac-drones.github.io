@@ -64,6 +64,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          name: github-pages
+          
+      # Debugging step to list artifacts
+      - name: List artifacts
+        run: ls -la ${{ runner.temp }}/_github_workflow
 
   # Deployment job
   deploy:
