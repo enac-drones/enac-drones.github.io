@@ -63,6 +63,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 I've always been curious and passionate, and I've built my career around one of my passions: systems control. I discovered this branch during various personal and study projects, which required me to invest myself fully. I'm a proactive problem-solver.
