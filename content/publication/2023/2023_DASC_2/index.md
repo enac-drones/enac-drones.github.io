@@ -32,9 +32,9 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
-    url: '#'
-url_pdf: '/publication/2023_dasc_2/DASC23-preprint.pdf'
+  # - name: Custom Link
+  #   url: '#'
+url_pdf: '/publication/2023/2023_dasc_2/DASC23-preprint.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
