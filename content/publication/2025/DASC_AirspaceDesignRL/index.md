@@ -39,7 +39,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: '#'
-url_pdf: '/publication/2025/DASC_AirspaceDesignRL/Investigating_C3_Airspace_4_UTM_using_DRL.pdf'
+url_pdf: '/publication/2025/DASC_AirspaceDesignRL/Investigating-C3-Airspace-4-UTM-using-DRL.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
