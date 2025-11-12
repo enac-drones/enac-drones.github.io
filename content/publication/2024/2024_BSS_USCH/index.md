@@ -32,7 +32,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: '/publication/2024/2024_BSS_USCH/2024_BSS_USCH_preprint.pdf'
+url_pdf: '/publication/2024/2024_bss_usch/2024_BSS_USCH_preprint.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

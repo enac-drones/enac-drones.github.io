@@ -34,7 +34,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: '#'
-url_pdf: '/publication/2024/2024_AIAA_1/2024_AIAA_TUM_ENAC_preprint.pdf'
+url_pdf: '/publication/2024/2024_aiaa_1/2024_AIAA_TUM_ENAC_preprint.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

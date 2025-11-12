@@ -39,7 +39,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: '#'
-url_pdf: '/publication/2025/DASC_HeterogeneousDeconfliction/2025_DASC_1_DeconfHetero.pdf'
+url_pdf: '/publication/2025/dasc_heterogeneousdeconfliction/2025_DASC_1_DeconfHetero.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

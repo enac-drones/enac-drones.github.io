@@ -37,7 +37,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: '/publication/2024/2024_AIAA_2/2024_AIAA_JGCND_preprint.pdf'
+url_pdf: '/publication/2024/2024_aiaa_2/2024_AIAA_JGCND_preprint.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

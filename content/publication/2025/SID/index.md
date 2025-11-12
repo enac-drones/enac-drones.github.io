@@ -39,7 +39,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: '#'
-url_pdf: '/publication/2025/SID/HybridRealSimulated_Validation_of_Separation_Assurance_GVF_Guidance_4_Safe_and_Conformant_Airspace_Corridor_Integration.pdf'
+url_pdf: '/publication/2025/sid/HybridRealSimulated_Validation_of_Separation_Assurance_GVF_Guidance_4_Safe_and_Conformant_Airspace_Corridor_Integration.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

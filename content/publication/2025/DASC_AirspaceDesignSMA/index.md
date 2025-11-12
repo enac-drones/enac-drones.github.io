@@ -39,7 +39,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: '#'
-url_pdf: '/publication/2025/DASC_AirspaceDesignSMA/SMA_4_Designing_Adaptive_C3_4_UTM.pdf'
+url_pdf: '/publication/2025/dasc_airspacedesignsma/SMA_4_Designing_Adaptive_C3_4_UTM.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
